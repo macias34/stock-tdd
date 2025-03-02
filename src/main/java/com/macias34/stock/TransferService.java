@@ -1,4 +1,4 @@
-package com.macias34.inventory;
+package com.macias34.stock;
 
 class TransferService {
     boolean transfer(Stock sourceStock, Stock targetStock, Item notebook, Quantity quantity) {

@@ -1,4 +1,4 @@
-package com.macias34.inventory;
+package com.macias34.stock;
 
 import org.junit.jupiter.api.Test;
 

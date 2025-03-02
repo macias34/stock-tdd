@@ -1,4 +1,4 @@
-package com.macias34.inventory;
+package com.macias34.stock;
 
 record Quantity(int value) {
     Quantity subtract(Quantity quantity) {
